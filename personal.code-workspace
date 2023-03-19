@@ -1,0 +1,133 @@
+{
+	"folders": [
+		{
+			"name": "Memo",
+			"path": "/home/mumei/documents/Memo"
+		},
+		{
+			"name": "zenn-articles",
+			"path": "/home/mumei/develop/zenn-articles"
+		},
+		{
+			"name": "recoil-infinite-scroll-sample-no-recursion",
+			"path": "/home/mumei/develop/fe-bukiko/private-development/recoil-infinite-scroll-sample-no-recursion"
+		},
+		{
+			"name": "graphql-photo-share-api",
+			"path": "/home/mumei/develop/fe-bukiko/private-dev/graphql-photo-share-api"
+		},
+		{
+			"name": "nextjs-zod-email-form-validation-dev0",
+			"path": "/home/mumei/develop/fe-bukiko/private-dev/nextjs-zod-email-form-validation-dev0"
+		},
+		{
+			"name": "hello",
+			"path": "/home/mumei/develop/rust/hello"
+		},
+		{
+			"name": "jelly-docs",
+			"path": "/home/mumei/develop/purescript/jelly-docs"
+		},
+		{
+			"name": "purescript-book-ja",
+			"path": "/home/mumei/develop/purescript/purescript-book-ja"
+		},
+		{
+			"name": "purescript-book",
+			"path": "/home/mumei/develop/purescript/purescript-book"
+		},
+		{
+			"name": "nextjs-typescript-tic-tac-toe",
+			"path": "/home/mumei/develop/fe-bukiko/nextjs/nextjs-typescript-tic-tac-toe"
+		},
+		{
+			"name": "develop",
+			"path": "/home/mumei/develop"
+		},
+		{
+			"name": "dotfiles",
+			"path": "/home/mumei/dotfiles"
+		},
+		{
+			"name": "mumei",
+			"path": "/home/mumei"
+		},
+		{
+			"name": "hayami_saori",
+			"path": "/home/mumei/documents/sound/hayami_saori"
+		},
+		{
+			"name": "mumei-xxxx",
+			"path": "/home/mumei/develop/site/mumei-xxxx"
+		},
+		{
+			"name": "nextjs-12_1-next-jest-and-e2e-cypress",
+			"path": "/home/mumei/develop/fe-bukiko/nextjs/nextjs-12_1-next-jest-and-e2e-cypress"
+		},
+		{
+			"name": "purescript-book-ja-fork",
+			"path": "/home/mumei/develop/purescript/purescript-book-ja-fork"
+		},
+		{
+			"name": "purescript-jelly-init",
+			"path": "/home/mumei/develop/purescript/purescript-jelly-init"
+		},
+		{
+			"name": "get-programing-with-haskell",
+			"path": "/home/mumei/develop/haskell/get-programing-with-haskell"
+		},
+		{
+			"name": "Streamlink-FFmpeg-yt-dlp-commands",
+			"path": "/home/mumei/documents/sound/Streamlink-FFmpeg-yt-dlp-commands"
+		},
+		{
+			"name": "st-lesson",
+			"path": "/home/mumei/develop/haskell/st-lesson"
+		},
+		{
+			"name": "purescript-jelly",
+			"path": "/home/mumei/develop/purescript/purescript-jelly"
+		},
+		{
+			"name": "swr",
+			"path": "/home/mumei/develop/fe-bukiko/swr"
+		},
+		{
+			"name": "purescript-halogen",
+			"path": "/home/mumei/develop/purescript/purescript-halogen"
+		},
+		{
+			"name": "next.js",
+			"path": "/home/mumei/develop/fe-bukiko/next.js"
+		},
+		{
+			"name": "mumei-xxxx.github.io",
+			"path": "/home/mumei/develop/site/mumei-xxxx.github.io"
+		},
+		{
+			"name": "iroiro",
+			"path": "/home/mumei/develop/site/iroiro"
+		},
+		{
+			"name": "purescript-calculatewinner-examples",
+			"path": "/home/mumei/develop/purescript/purescript-sanmoku-dev0/purescript-calculatewinner-examples"
+		},
+		{
+			"name": "jelly-tic-tac-toe-without-timemachine",
+			"path": "/home/mumei/develop/purescript/purescript-sanmoku-dev0/jelly-tic-tac-toe-without-timemachine"
+		},
+		{
+			"name": "react",
+			"path": "/home/mumei/develop/fe-bukiko/react"
+		},
+		{
+			"name": "solidjs",
+			"path": "/home/mumei/develop/fe-bukiko/solidjs"
+		},
+		{
+			"name": "learning-graphql",
+			"path": "/home/mumei/develop/fe-bukiko/GraphQL/learning-graphql"
+		}
+	],
+	"settings": {}
+}
